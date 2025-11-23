@@ -2,7 +2,7 @@
  * Ad Soyad: [Birgül Göktürk]
  * Öğrenci No: [250541094]
  * Proje: [Not Sistemi]
- * Tarih: [23.10.2025]
+ * Tarih: [23.11.2025]
  */
 
 import java.util.Scanner;
@@ -83,4 +83,5 @@ public class Proje1_NotSistemi {
         input.close();
     }
 }
+
 
